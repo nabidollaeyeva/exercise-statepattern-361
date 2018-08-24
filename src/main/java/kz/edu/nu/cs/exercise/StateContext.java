@@ -12,8 +12,8 @@ public class StateContext {
     }
 
     public void actionA() {
-        // complete this method
-        // delegate to the current state
+        // complete this method by
+        // delegation to the current state
     }
 
     public void actionB() {
